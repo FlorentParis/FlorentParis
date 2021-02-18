@@ -1,16 +1,47 @@
-### Hi there 👋
+<!-- Hello + Pres -->
+### Hi everyone ! My name is Florent ! 👋
 
-<!--
-**FlorentParis/FlorentParis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student developper at Hetic, the great school of tech and multimedia !
+- 🧠 I try every day to improve my skills.
+- 🚀 2021 Goals : Progress in Web Design to become more versatile.
+<!-- Hello + Pres -->
 
-Here are some ideas to get you started:
+<!-- Contacts -->
+### My contacts :
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/linkedin.png"/>][LinkedIn]
+[<img align="left" alt="Icon Gmail" width="30px" src="https://github.com/FlorentParis/Read/blob/master/gmail.png"/>][Gmail]
+<!-- Contacts -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<br />
+
+<!-- Skills -->
+### Langages and Tools:
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/VS.svg"/>][VSCode]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/html.png"/>][HTML5]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/css.png"/>][CSS3]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/js.png"/>][JS]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/py.png"/>][Python]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/git.png"/>][Git]
+<!-- Skills -->
+
+---
+
+<br />
+
+<!-- Stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorentParis&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentParis&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-Statistiques)
+<!-- Stats -->
+
+[VSCode]: https://code.visualstudio.com/
+[HTML5]: https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5
+[CSS3]: https://developer.mozilla.org/fr/docs/Web/CSS
+[JS]: https://developer.mozilla.org/fr/docs/Web/JavaScript
+[Python]: https://www.python.org/
+[Git]: https://git-scm.com/
+[LinkedIn]: https://www.linkedin.com/in/florentparis/
+[Gmail]:mailto:florentparis28@gmail.com"

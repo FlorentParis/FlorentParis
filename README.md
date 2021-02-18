@@ -21,7 +21,7 @@
 [<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/VS.svg"/>][VSCode]
 [<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/html.png"/>][HTML5]
 [<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/css.png"/>][CSS3]
-[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/js.pngg"/>][JS]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/js.png"/>][JS]
 [<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/py.png"/>][Python]
 [<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/git.png"/>][Git]
 <!-- Skills -->

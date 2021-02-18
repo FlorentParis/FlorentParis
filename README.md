@@ -8,8 +8,8 @@
 
 <!-- Contacts -->
 ### My contacts :
-[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/linkedin.png"/>][LinkedIn]
-[<img align="left" alt="Icon Gmail" width="30px" src="https://github.com/FlorentParis/Read/blob/master/gmail.png"/>][Gmail]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/linkedin.png"/>][LinkedIn]
+[<img align="left" alt="Icon Gmail" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/gmail.png"/>][Gmail]
 <!-- Contacts -->
 
 ---
@@ -18,12 +18,12 @@
 
 <!-- Skills -->
 ### Langages and Tools:
-[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/VS.svg"/>][VSCode]
-[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/html.png"/>][HTML5]
-[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/css.png"/>][CSS3]
-[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/js.png"/>][JS]
-[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/py.png"/>][Python]
-[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/Read/blob/master/git.png"/>][Git]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/VS.svg"/>][VSCode]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/html.png"/>][HTML5]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/css.png"/>][CSS3]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/js.pngg"/>][JS]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/py.png"/>][Python]
+[<img align="left" alt="Icon Linkedin" width="30px" src="https://github.com/FlorentParis/FlorentParis/blob/main/git.png"/>][Git]
 <!-- Skills -->
 
 ---

@@ -3,7 +3,6 @@
 
 ## I'm a student developper at Hetic, the great school of tech and multimedia !
 - 🧠 I try every day to improve my skills.
-- 🚀 2021 Goals : Learn a Javascript Framework to extend my possible approaches on different projects.
 <!-- Hello + Pres -->
 
 <!-- Contacts -->

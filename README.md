@@ -3,17 +3,6 @@
 ## About Me
 I'm Florent, a front-end developer at BETC and a student at EFREI. Passionate about the web development universe, I thrive in creating interactive and aesthetically pleasing user interfaces.
 
-## Technologies and Languages
-- **Javascript:** My skills include React, Nextjs, React-native, Typescript, and Redux.
-- **CSS:** I'm proficient with Sass, styled-components, and Tailwind for crafting elegant and functional styles.
-- **Back-end:** Node.js, PHP, Python, Databases (MySQL, MariaDB), ...
-
-## Tools and Skills
-- **Version Control:** Git.
-- **Continuous Integration/Continuous Deployment:** GitHub Actions, Gitlab CI.
-- **Containerization:** Docker.
-- **Testing:** JEST, Cypress, Storybook.
-
 <!-- ## Notable Projects -->
 <!-- Alongside my work at BETC, I've contributed to several exciting projects, including ... -->
 

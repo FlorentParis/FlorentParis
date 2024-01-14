@@ -14,19 +14,7 @@
 ---
 
 <br />
-
-<!-- Stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorentParis&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-<br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentParis&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-Statistiques)
-<!-- Stats -->
-
-[VSCode]: https://code.visualstudio.com/
-[HTML5]: https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5
-[CSS3]: https://developer.mozilla.org/fr/docs/Web/CSS
-[JS]: https://developer.mozilla.org/fr/docs/Web/JavaScript
-[Python]: https://www.python.org/
-[Git]: https://git-scm.com/
-[LinkedIn]: https://www.linkedin.com/in/florentparis/
-[Gmail]:mailto:florentparis28@gmail.com"
+<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h7skwj2tgpij0lufibjpqoxrw&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=h7skwj2tgpij0lufibjpqoxrw&redirect=true)

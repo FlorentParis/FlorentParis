@@ -1,5 +1,13 @@
 ### Hey i'm Florent ! 👋
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/FlorentParis?pet-id=665291416427726455"
+    width="600"
+    height="200"
+  />
+</a>
+
 ## About Me
 I'm Florent, a front-end developer at BETC and a student at EFREI. Passionate about the web development universe, I thrive in creating interactive and aesthetically pleasing user interfaces.
 

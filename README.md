@@ -1,11 +1,11 @@
 ### Hey i'm Florent ! 👋
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/FlorentParis"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/FlorentParis?pet-id=665292624257267467"
+    width="1000"
+    height="200"
+  />
 </a>
 
 ## About Me
